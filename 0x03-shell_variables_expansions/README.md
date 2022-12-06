@@ -1,1 +1,1 @@
-Myfirst readme,
+shell, init files, variables and expansions
